@@ -1,0 +1,1 @@
+for i in {0..52}; do let g=7*$i; touch $(date -d "2019-01-01 + $g days" +week-of-%m-%d); done
