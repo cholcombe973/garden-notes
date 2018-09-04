@@ -1,0 +1,6 @@
+subtract 1 year from todays date and search for the year folder
+if not exist exit
+take the month and search for a file with that month
+that narrows it down to 4 possibilities
+sort those file names and find which set of dates we're between
+open the smaller numbered file and email that to me
